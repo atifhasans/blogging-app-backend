@@ -31,6 +31,4 @@ app.use('/public',PublicRoutes)
 
 app.listen(PORT, () => {
     console.log(`app is running on PORT ${PORT}`)
-}
-
-)
+})
